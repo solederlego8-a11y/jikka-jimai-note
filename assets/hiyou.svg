@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" role="img" aria-label="遺品整理の費用が決まる3つの要素">
+  <rect width="1000" height="240" fill="#F4F8FB"/>
+  <text x="500" y="38" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#0B2A4A">費用は「3つの要素」で決まります</text>
+  <g font-family="sans-serif">
+    <rect x="20" y="60" width="300" height="120" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <text x="170" y="94" text-anchor="middle" font-size="16" font-weight="bold" fill="#232A33">作業の範囲</text>
+    <text x="170" y="122" text-anchor="middle" font-size="12.5" fill="#55677C">仕分け・搬出・清掃・供養など</text>
+    <text x="170" y="144" text-anchor="middle" font-size="12.5" fill="#55677C">どこまで頼むかで変わる</text>
+    <text x="170" y="168" text-anchor="middle" font-size="12" fill="#0F4C81">範囲の線引きを見積書で確認</text>
+
+    <rect x="350" y="60" width="300" height="120" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <text x="500" y="94" text-anchor="middle" font-size="16" font-weight="bold" fill="#232A33">荷物の量と処分費</text>
+    <text x="500" y="122" text-anchor="middle" font-size="12.5" fill="#55677C">部屋数・物量・搬出経路</text>
+    <text x="500" y="144" text-anchor="middle" font-size="12.5" fill="#55677C">処分費は自治体・品目で異なる</text>
+    <text x="500" y="168" text-anchor="middle" font-size="12" fill="#0F4C81">現地確認のうえで見積りが原則</text>
+
+    <rect x="680" y="60" width="300" height="120" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <text x="830" y="94" text-anchor="middle" font-size="16" font-weight="bold" fill="#232A33">追加料金の条件</text>
+    <text x="830" y="122" text-anchor="middle" font-size="12.5" fill="#55677C">想定外の荷物・特殊な作業</text>
+    <text x="830" y="144" text-anchor="middle" font-size="12.5" fill="#55677C">当日になって増える例がある</text>
+    <text x="830" y="168" text-anchor="middle" font-size="12" fill="#0F4C81">発生条件を契約前に書面で確認</text>
+  </g>
+  <text x="500" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#232A33">金額は業者・地域・家の状況で変わります。<tspan font-weight="bold" fill="#0B2A4A">複数社の見積りを比べて、内訳の書面で判断</tspan>してください。</text>
+</svg>

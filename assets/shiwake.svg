@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-label="荷物の仕分け4区分">
+  <rect width="1000" height="260" fill="#F4F8FB"/>
+  <text x="500" y="38" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#0B2A4A">仕分けは4つの区分で考える</text>
+  <g font-family="sans-serif">
+    <rect x="20" y="60" width="228" height="160" rx="8" fill="#FFFFFF" stroke="#0B2A4A" stroke-width="2"/>
+    <rect x="20" y="60" width="228" height="44" rx="8" fill="#0B2A4A"/>
+    <text x="134" y="89" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">1. 残す</text>
+    <text x="134" y="132" text-anchor="middle" font-size="12.5" fill="#55677C">貴重品・重要書類</text>
+    <text x="134" y="154" text-anchor="middle" font-size="12.5" fill="#55677C">思い出の品</text>
+    <text x="134" y="176" text-anchor="middle" font-size="12.5" fill="#55677C">今後も使う家財</text>
+    <text x="134" y="202" text-anchor="middle" font-size="12" fill="#0F4C81">置き場所まで決める</text>
+
+    <rect x="264" y="60" width="228" height="160" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <rect x="264" y="60" width="228" height="44" rx="8" fill="#0F4C81"/>
+    <text x="378" y="89" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">2. 譲る・形見分け</text>
+    <text x="378" y="132" text-anchor="middle" font-size="12.5" fill="#55677C">家族・親族で使うもの</text>
+    <text x="378" y="154" text-anchor="middle" font-size="12.5" fill="#55677C">形見として分けたい品</text>
+    <text x="378" y="176" text-anchor="middle" font-size="12.5" fill="#55677C">知人への譲渡</text>
+    <text x="378" y="202" text-anchor="middle" font-size="12" fill="#0F4C81">誰に渡すか記録する</text>
+
+    <rect x="508" y="60" width="228" height="160" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <rect x="508" y="60" width="228" height="44" rx="8" fill="#0F4C81"/>
+    <text x="622" y="89" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">3. 売る・リサイクル</text>
+    <text x="622" y="132" text-anchor="middle" font-size="12.5" fill="#55677C">家電・家具・着物など</text>
+    <text x="622" y="154" text-anchor="middle" font-size="12.5" fill="#55677C">リサイクルショップ</text>
+    <text x="622" y="176" text-anchor="middle" font-size="12.5" fill="#55677C">自治体の資源回収</text>
+    <text x="622" y="202" text-anchor="middle" font-size="12" fill="#0F4C81">値段は査定で確認</text>
+
+    <rect x="752" y="60" width="228" height="160" rx="8" fill="#FFFFFF" stroke="#55677C" stroke-width="2"/>
+    <rect x="752" y="60" width="228" height="44" rx="8" fill="#55677C"/>
+    <text x="866" y="89" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">4. 処分する</text>
+    <text x="866" y="132" text-anchor="middle" font-size="12.5" fill="#55677C">壊れた家財・日用品</text>
+    <text x="866" y="154" text-anchor="middle" font-size="12.5" fill="#55677C">粗大ごみ・不用品回収</text>
+    <text x="866" y="176" text-anchor="middle" font-size="12.5" fill="#55677C">分別ルールは自治体ごと</text>
+    <text x="866" y="202" text-anchor="middle" font-size="12" fill="#0F4C81">回収日を先に調べる</text>
+  </g>
+  <text x="500" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#55677C">判断に迷うものは「保留箱」に入れて日を改めると、仕分けが止まりにくくなります。</text>
+</svg>
