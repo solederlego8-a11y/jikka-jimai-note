@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" role="img" aria-label="不用品回収の無料見積りから回収までの4ステップ">
+  <rect width="1000" height="250" fill="#F4F8FB"/>
+  <text x="500" y="38" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#0B2A4A">無料見積りから回収までの流れ</text>
+  <g font-family="sans-serif">
+    <rect x="20" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="128" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="128" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">1</text>
+    <text x="128" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#0B2A4A">申し込み</text>
+    <text x="128" y="166" text-anchor="middle" font-size="13" fill="#44566B">品目と量・住所・希望日を伝える</text>
+    <text x="248" y="142" font-size="22" fill="#0F4C81">→</text>
+    <rect x="268" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="376" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="376" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">2</text>
+    <text x="376" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#0B2A4A">現地確認・見積り</text>
+    <text x="376" y="166" text-anchor="middle" font-size="13" fill="#44566B">金額と内訳を書面で受け取る</text>
+    <text x="496" y="142" font-size="22" fill="#0F4C81">→</text>
+    <rect x="516" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="624" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="624" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">3</text>
+    <text x="624" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#0B2A4A">比較・検討</text>
+    <text x="624" y="166" text-anchor="middle" font-size="13" fill="#44566B">複数社の内訳を並べて比べる</text>
+    <text x="744" y="142" font-size="22" fill="#0F4C81">→</text>
+    <rect x="764" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="872" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="872" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">4</text>
+    <text x="872" y="140" text-anchor="middle" font-size="17" font-weight="bold" fill="#0B2A4A">契約・回収</text>
+    <text x="872" y="166" text-anchor="middle" font-size="13" fill="#44566B">条件を確認してから契約する</text>
+  </g>
+</svg>
