@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" role="img" aria-label="期限から逆算するスケジュールの組み方 4ステップ">
+  <rect width="1000" height="250" fill="#F4F8FB"/>
+  <text x="500" y="38" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#0B2A4A">期限から逆算する組み方 4ステップ</text>
+  <!-- step boxes -->
+  <g font-family="sans-serif">
+    <!-- 1 -->
+    <rect x="20" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="128" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="128" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">1</text>
+    <text x="128" y="138" text-anchor="middle" font-size="15" font-weight="bold" fill="#232A33">期限を決める</text>
+    <text x="128" y="164" text-anchor="middle" font-size="12" fill="#55677C">退去・引渡し・法要など</text>
+    <text x="128" y="182" text-anchor="middle" font-size="12" fill="#55677C">動かせない日を置く</text>
+    <!-- 2 -->
+    <rect x="268" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="376" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="376" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">2</text>
+    <text x="376" y="138" text-anchor="middle" font-size="15" font-weight="bold" fill="#232A33">工程を並べる</text>
+    <text x="376" y="164" text-anchor="middle" font-size="12" fill="#55677C">仕分け→処分→清掃</text>
+    <text x="376" y="182" text-anchor="middle" font-size="12" fill="#55677C">期限から後ろ向きに</text>
+    <!-- 3 -->
+    <rect x="516" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="624" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="624" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">3</text>
+    <text x="624" y="138" text-anchor="middle" font-size="15" font-weight="bold" fill="#232A33">家族の日を押さえる</text>
+    <text x="624" y="164" text-anchor="middle" font-size="12" fill="#55677C">集まれる日を先に</text>
+    <text x="624" y="182" text-anchor="middle" font-size="12" fill="#55677C">作業日に割り当てる</text>
+    <!-- 4 -->
+    <rect x="764" y="70" width="216" height="130" rx="8" fill="#FFFFFF" stroke="#0F4C81" stroke-width="2"/>
+    <circle cx="872" cy="98" r="16" fill="#0B2A4A"/>
+    <text x="872" y="105" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">4</text>
+    <text x="872" y="138" text-anchor="middle" font-size="15" font-weight="bold" fill="#232A33">余白を残して進める</text>
+    <text x="872" y="164" text-anchor="middle" font-size="12" fill="#55677C">予備日を入れて</text>
+    <text x="872" y="182" text-anchor="middle" font-size="12" fill="#55677C">遅れても崩れない形に</text>
+    <!-- arrows -->
+    <g fill="#0F4C81">
+      <path d="M240 128 L256 128 L256 120 L262 135 L256 150 L256 142 L240 142 Z"/>
+      <path d="M488 128 L504 128 L504 120 L510 135 L504 150 L504 142 L488 142 Z"/>
+      <path d="M736 128 L752 128 L752 120 L758 135 L752 150 L752 142 L736 142 Z"/>
+    </g>
+  </g>
+  <text x="500" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#55677C">かかる期間は家の広さ・荷物の量・家族の距離で大きく変わります。終わる時期を断定せず、余裕を持って組んでください。</text>
+</svg>
